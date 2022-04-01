@@ -11,4 +11,3 @@ The data is grabbed every day.
 ## Installation
 The script is based on on virtualenv and therefore to activate it, navigate to bin/, type source bin/activate.
 This will bring up the virtualenv and you can execute the code from the virtualenv without needing to install anything
-
